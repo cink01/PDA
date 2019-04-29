@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPujcen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pujcen>
+    <Nazev>Alien 3</Nazev>
+    <Rezie>Fincher David</Rezie>
+    <Zanr>Akční|Horor|Sci-Fi</Zanr>
+    <Rok>1992</Rok>
+    <Celkem>15</Celkem>
+    <Pocet>13</Pocet>
+    <Cena>49</Cena>
+  </Pujcen>
+  <Pujcen>
+    <Nazev>Aliens</Nazev>
+    <Rezie>Cameron James</Rezie>
+    <Zanr>Akční|Horor|Sci-Fi</Zanr>
+    <Rok>1986</Rok>
+    <Celkem>10</Celkem>
+    <Pocet>6</Pocet>
+    <Cena>99</Cena>
+  </Pujcen>
+  <Pujcen>
+    <Nazev>Prometheus</Nazev>
+    <Rezie>Scott Ridley</Rezie>
+    <Zanr>Dobrodružný|Sci-Fi </Zanr>
+    <Rok>2012</Rok>
+    <Celkem>10</Celkem>
+    <Pocet>0</Pocet>
+    <Cena>99</Cena>
+  </Pujcen>
+  <Pujcen>
+    <Nazev>Pulp Fiction</Nazev>
+    <Rezie>Tarantino Quentin</Rezie>
+    <Zanr>Drama|Krimi</Zanr>
+    <Rok>1990</Rok>
+    <Celkem>11</Celkem>
+    <Pocet>11</Pocet>
+    <Cena>300</Cena>
+  </Pujcen>
+  <Pujcen>
+    <Nazev>Princ a prudas</Nazev>
+    <Rezie>Green David</Rezie>
+    <Zanr>Fantasy|Komedie</Zanr>
+    <Rok>2017</Rok>
+    <Celkem>9</Celkem>
+    <Pocet>2</Pocet>
+    <Cena>222</Cena>
+  </Pujcen>
+  <Pujcen>
+    <Nazev>Alien</Nazev>
+    <Rezie>Scott Ridley</Rezie>
+    <Zanr>Horor|Sci-Fi</Zanr>
+    <Rok>1979</Rok>
+    <Celkem>10</Celkem>
+    <Pocet>5</Pocet>
+    <Cena>99</Cena>
+  </Pujcen>
+  <Pujcen>
+    <Nazev>Pátek trináctého</Nazev>
+    <Rezie>Cunningham S. Sean</Rezie>
+    <Zanr>Horror|Mystery|Thriller</Zanr>
+    <Rok>1980</Rok>
+    <Celkem>22</Celkem>
+    <Pocet>15</Pocet>
+    <Cena>100</Cena>
+  </Pujcen>
+  <Pujcen>
+    <Nazev>Zoolander</Nazev>
+    <Rezie>Stiller Ben</Rezie>
+    <Zanr>Komedie</Zanr>
+    <Rok>2011</Rok>
+    <Celkem>29</Celkem>
+    <Pocet>29</Pocet>
+    <Cena>175</Cena>
+  </Pujcen>
+  <Pujcen>
+    <Nazev>Zoolander 2</Nazev>
+    <Rezie>Stiller Ben</Rezie>
+    <Zanr>Komedie</Zanr>
+    <Rok>2016</Rok>
+    <Celkem>9</Celkem>
+    <Pocet>9</Pocet>
+    <Cena>181</Cena>
+  </Pujcen>
+  <Pujcen>
+    <Nazev>Vybíjená</Nazev>
+    <Rezie>Thurber Rawson</Rezie>
+    <Zanr>Komedie|Sportovní</Zanr>
+    <Rok>2011</Rok>
+    <Celkem>11</Celkem>
+    <Pocet>11</Pocet>
+    <Cena>123</Cena>
+  </Pujcen>
+  <Pujcen>
+    <Nazev>Wonder Woman</Nazev>
+    <Rezie>Jenkins Patty</Rezie>
+    <Zanr>Akční|Adventura|Fantasy</Zanr>
+    <Rok>2017</Rok>
+    <Celkem>20</Celkem>
+    <Pocet>15</Pocet>
+    <Cena>499</Cena>
+  </Pujcen>
+  <Pujcen>
+    <Nazev>Spider-Man: Homecoming</Nazev>
+    <Rezie>Watts Jon</Rezie>
+    <Zanr>Akční|Adventura|Sci-fi</Zanr>
+    <Rok>2017</Rok>
+    <Celkem>20</Celkem>
+    <Pocet>20</Pocet>
+    <Cena>500</Cena>
+  </Pujcen>
+</ArrayOfPujcen>

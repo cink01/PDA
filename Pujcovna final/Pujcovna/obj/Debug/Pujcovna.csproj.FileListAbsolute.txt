@@ -1,0 +1,101 @@
+C:\Users\Tommy\Desktop\Pujcovna v0.1A\Pujcovna\bin\Debug\Pujcovna.exe.config
+C:\Users\Tommy\Desktop\Pujcovna v0.1A\Pujcovna\bin\Debug\Pujcovna.exe
+C:\Users\Tommy\Desktop\Pujcovna v0.1A\Pujcovna\bin\Debug\Pujcovna.pdb
+C:\Users\Tommy\Desktop\Pujcovna v0.1A\Pujcovna\obj\Debug\Pujcovna.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Desktop\Pujcovna v0.1A\Pujcovna\obj\Debug\Pujcovna.FormMain.resources
+C:\Users\Tommy\Desktop\Pujcovna v0.1A\Pujcovna\obj\Debug\Pujcovna.Properties.Resources.resources
+C:\Users\Tommy\Desktop\Pujcovna v0.1A\Pujcovna\obj\Debug\Pujcovna.Pujcka.resources
+C:\Users\Tommy\Desktop\Pujcovna v0.1A\Pujcovna\obj\Debug\Pujcovna.Uprava.resources
+C:\Users\Tommy\Desktop\Pujcovna v0.1A\Pujcovna\obj\Debug\Pujcovna.csproj.GenerateResource.Cache
+C:\Users\Tommy\Desktop\Pujcovna v0.1A\Pujcovna\obj\Debug\Pujcovna.exe
+C:\Users\Tommy\Desktop\Pujcovna v0.1A\Pujcovna\obj\Debug\Pujcovna.pdb
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.2B\Pujcovna\bin\Debug\Pujcovna.exe.config
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.2B\Pujcovna\obj\Debug\Pujcovna.exe
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.2B\Pujcovna\obj\Debug\Pujcovna.pdb
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.2B\Pujcovna\bin\Debug\Pujcovna.exe
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.2B\Pujcovna\bin\Debug\Pujcovna.pdb
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.2B\Pujcovna\obj\Debug\Pujcovna.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.2B\Pujcovna\obj\Debug\Pujcovna.FormMain.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.2B\Pujcovna\obj\Debug\Pujcovna.Properties.Resources.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.2B\Pujcovna\obj\Debug\Pujcovna.Pujcka.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.2B\Pujcovna\obj\Debug\Pujcovna.Uprava.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.2B\Pujcovna\obj\Debug\Pujcovna.csproj.GenerateResource.Cache
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.6\Pujcovna\bin\Debug\Pujcovna.exe.config
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.6\Pujcovna\obj\Debug\Pujcovna.exe
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.6\Pujcovna\obj\Debug\Pujcovna.pdb
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.6\Pujcovna\bin\Debug\Pujcovna.exe
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.6\Pujcovna\bin\Debug\Pujcovna.pdb
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.6\Pujcovna\obj\Debug\Pujcovna.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.6\Pujcovna\obj\Debug\Pujcovna.FormMain.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.6\Pujcovna\obj\Debug\Pujcovna.Properties.Resources.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.6\Pujcovna\obj\Debug\Pujcovna.Pujcka.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.6\Pujcovna\obj\Debug\Pujcovna.Uprava.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.6\Pujcovna\obj\Debug\Pujcovna.csproj.GenerateResource.Cache
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.7\Pujcovna\bin\Debug\Pujcovna.exe.config
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.7\Pujcovna\obj\Debug\Pujcovna.exe
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.7\Pujcovna\obj\Debug\Pujcovna.pdb
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.7\Pujcovna\bin\Debug\Pujcovna.exe
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.7\Pujcovna\bin\Debug\Pujcovna.pdb
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.7\Pujcovna\obj\Debug\Pujcovna.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.7\Pujcovna\obj\Debug\Pujcovna.FormMain.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.7\Pujcovna\obj\Debug\Pujcovna.Properties.Resources.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.7\Pujcovna\obj\Debug\Pujcovna.Pujcka.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.7\Pujcovna\obj\Debug\Pujcovna.Uprava.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.7\Pujcovna\obj\Debug\Pujcovna.csproj.GenerateResource.Cache
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.8\Pujcovna\bin\Debug\Pujcovna.exe.config
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.8\Pujcovna\obj\Debug\Pujcovna.exe
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.8\Pujcovna\obj\Debug\Pujcovna.pdb
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.8\Pujcovna\bin\Debug\Pujcovna.exe
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.8\Pujcovna\bin\Debug\Pujcovna.pdb
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.8\Pujcovna\obj\Debug\Pujcovna.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.8\Pujcovna\obj\Debug\Pujcovna.FormMain.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.8\Pujcovna\obj\Debug\Pujcovna.Properties.Resources.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.8\Pujcovna\obj\Debug\Pujcovna.Pujcka.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.8\Pujcovna\obj\Debug\Pujcovna.Uprava.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.8\Pujcovna\obj\Debug\Pujcovna.csproj.GenerateResource.Cache
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.9\Pujcovna\bin\Debug\Pujcovna.exe.config
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.9\Pujcovna\obj\Debug\Pujcovna.exe
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.9\Pujcovna\obj\Debug\Pujcovna.pdb
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.9\Pujcovna\bin\Debug\Pujcovna.exe
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.9\Pujcovna\bin\Debug\Pujcovna.pdb
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.9\Pujcovna\obj\Debug\Pujcovna.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.9\Pujcovna\obj\Debug\Pujcovna.FormMain.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.9\Pujcovna\obj\Debug\Pujcovna.Properties.Resources.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.9\Pujcovna\obj\Debug\Pujcovna.Pujcka.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.9\Pujcovna\obj\Debug\Pujcovna.Uprava.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna v0.9\Pujcovna\obj\Debug\Pujcovna.csproj.GenerateResource.Cache
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna final\Pujcovna\bin\Debug\Pujcovna.exe.config
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.exe
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.pdb
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna final\Pujcovna\bin\Debug\Pujcovna.exe
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna final\Pujcovna\bin\Debug\Pujcovna.pdb
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.FormMain.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.Properties.Resources.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.Pujcka.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.Uprava.resources
+C:\Users\Tommy\Desktop\PDA semestralka\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.csproj.GenerateResource.Cache
+D:\VEJSKA\complete\Pujcovna final\Pujcovna\bin\Debug\Pujcovna.exe.config
+D:\VEJSKA\complete\Pujcovna final\Pujcovna\bin\Debug\Pujcovna.exe
+D:\VEJSKA\complete\Pujcovna final\Pujcovna\bin\Debug\Pujcovna.pdb
+D:\VEJSKA\complete\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.csprojResolveAssemblyReference.cache
+D:\VEJSKA\complete\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.FormMain.resources
+D:\VEJSKA\complete\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.Properties.Resources.resources
+D:\VEJSKA\complete\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.Pujcka.resources
+D:\VEJSKA\complete\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.Uprava.resources
+D:\VEJSKA\complete\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.csproj.GenerateResource.cache
+D:\VEJSKA\complete\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.csproj.CoreCompileInputs.cache
+D:\VEJSKA\complete\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.exe
+D:\VEJSKA\complete\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.pdb
+D:\VEJSKA\complete pda\Pujcovna final\Pujcovna\bin\Debug\Pujcovna.exe.config
+D:\VEJSKA\complete pda\Pujcovna final\Pujcovna\bin\Debug\Pujcovna.exe
+D:\VEJSKA\complete pda\Pujcovna final\Pujcovna\bin\Debug\Pujcovna.pdb
+D:\VEJSKA\complete pda\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.csprojAssemblyReference.cache
+D:\VEJSKA\complete pda\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.FormMain.resources
+D:\VEJSKA\complete pda\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.Properties.Resources.resources
+D:\VEJSKA\complete pda\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.Pujcka.resources
+D:\VEJSKA\complete pda\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.Uprava.resources
+D:\VEJSKA\complete pda\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.csproj.GenerateResource.cache
+D:\VEJSKA\complete pda\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.csproj.CoreCompileInputs.cache
+D:\VEJSKA\complete pda\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.exe
+D:\VEJSKA\complete pda\Pujcovna final\Pujcovna\obj\Debug\Pujcovna.pdb
